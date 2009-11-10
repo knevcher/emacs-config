@@ -1,0 +1,6 @@
+#name : ZElTextarea
+# --
+
+\$${1:textarea} = new Zend_Form_Element_Textarea('$1',array('cols' => ${cols}, 'rows' => ${rows}, value'=>\$${val1}));
+\$$1->setLable('${Label}')
+    ->setRequired(${false});

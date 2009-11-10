@@ -1,0 +1,19 @@
+@numchapentry{Introduction}{1}{Introduction}{1}
+@numchapentry{Electricity}{2}{Electricity}{2}
+@numchapentry{Motion}{3}{Motion}{3}
+@numchapentry{Indentation}{4}{Indentation}{4}
+@numchapentry{Editing}{5}{Editing}{5}
+@numchapentry{Completion}{6}{Completion}{6}
+@numchapentry{PHP Comments}{7}{PHP Comments}{8}
+@numchapentry{PHP Documentation}{8}{PHP Documentation}{9}
+@numchapentry{Index Menu}{9}{Index Menu}{10}
+@numchapentry{Change Logs}{10}{Change Logs}{11}
+@numchapentry{Speedbar}{11}{Speedbar}{12}
+@numchapentry{Customization}{12}{Customization}{13}
+@appentry{Embedded HTML}{A}{Embedded HTML}{14}
+@appentry{Contributors}{B}{Contributors}{15}
+@appentry{Copying This Manual}{C}{Copying This Manual}{16}
+@unnchapentry{Concept Index}{10001}{Concept Index}{23}
+@unnchapentry{Function Index}{10002}{Function Index}{25}
+@unnchapentry{Keyboard Index}{10003}{Keyboard Index}{26}
+@unnchapentry{Variable Index}{10004}{Variable Index}{27}

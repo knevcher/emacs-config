@@ -1,0 +1,11 @@
+\initial {C}
+\entry {\code {c-basic-offset}}{4}
+\entry {\code {comment-column}}{8}
+\initial {I}
+\entry {\code {imenu-auto-rescan}}{10}
+\entry {\code {indent-tabs-mode}}{4}
+\initial {P}
+\entry {\code {php-completion-file}}{6}
+\entry {\code {php-manual-path}}{6}
+\initial {T}
+\entry {\code {tab-width}}{4}

@@ -1,0 +1,37 @@
+\entry{TAB}{2}{\code {TAB}}
+\entry{C-q}{2}{\code {C-q}}
+\entry{C-c C-l}{2}{\code {C-c C-l}}
+\entry{C-M-f}{3}{\code {C-M-f}}
+\entry{C-M-b}{3}{\code {C-M-b}}
+\entry{C-M-a}{3}{\code {C-M-a}}
+\entry{C-M-e}{3}{\code {C-M-e}}
+\entry{C-M-<HOME>}{3}{\code {C-M-<HOME>}}
+\entry{C-M-<END>}{3}{\code {C-M-<END>}}
+\entry{M-m}{3}{\code {M-m}}
+\entry{C-c C-w}{3}{\code {C-c C-w}}
+\entry{C-u}{3}{\code {C-u}}
+\entry{TAB}{4}{\code {TAB}}
+\entry{C-j}{4}{\code {C-j}}
+\entry{C-M-{\tt \indexbackslash }}{4}{\code {C-M-{\tt \backslashcurfont }}}
+\entry{C-c C-q}{4}{\code {C-c C-q}}
+\entry{M-q}{5}{\code {M-q}}
+\entry{C-x f}{5}{\code {C-x f}}
+\entry{C-M-h}{5}{\code {C-M-h}}
+\entry{C-w}{5}{\code {C-w}}
+\entry{M-w}{5}{\code {M-w}}
+\entry{C-M-{\tt \indexbackslash }}{5}{\code {C-M-{\tt \backslashcurfont }}}
+\entry{M-TAB}{7}{\code {M-TAB}}
+\entry{ESC TAB}{7}{\code {ESC TAB}}
+\entry{C-[ TAB}{7}{\code {C-[ TAB}}
+\entry{C-.}{7}{\code {C-.}}
+\entry{M-;}{8}{\code {M-;}}
+\entry{M-x comment-indent}{8}{\code {M-x comment-indent}}
+\entry{M-j}{8}{\code {M-j}}
+\entry{C-x ;}{8}{\code {C-x ;}}
+\entry{C-c C-c}{8}{\code {C-c C-c}}
+\entry{M-- C-x ;}{8}{\code {M-- C-x ;}}
+\entry{M-x comment-box}{8}{\code {M-x comment-box}}
+\entry{C-c C-m}{9}{\code {C-c C-m}}
+\entry{C-c RET}{9}{\code {C-c RET}}
+\entry{C-c C-f}{9}{\code {C-c C-f}}
+\entry{M-x php-mode}{14}{\code {M-x php-mode}}

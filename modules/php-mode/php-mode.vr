@@ -1,0 +1,7 @@
+\entry{c-basic-offset}{4}{\code {c-basic-offset}}
+\entry{indent-tabs-mode}{4}{\code {indent-tabs-mode}}
+\entry{tab-width}{4}{\code {tab-width}}
+\entry{php-manual-path}{6}{\code {php-manual-path}}
+\entry{php-completion-file}{6}{\code {php-completion-file}}
+\entry{comment-column}{8}{\code {comment-column}}
+\entry{imenu-auto-rescan}{10}{\code {imenu-auto-rescan}}

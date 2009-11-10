@@ -1,0 +1,13 @@
+{{wrap with="front_layout.phtml"}}
+
+  {{into slot="page_title"}} $1 | {{/into}}
+
+  {{into slot="content"}}
+
+    <h1>$1</h1>
+
+      $0
+
+    {{/into}}
+
+{{/wrap}}

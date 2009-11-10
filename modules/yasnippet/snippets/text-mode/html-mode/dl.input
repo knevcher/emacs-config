@@ -1,0 +1,4 @@
+<dl class="field">
+  <dt><label for="$1">$2:</label></dt>
+  <dd>{{input type="text" name="$1" id="$1" title="$2"/}}</dd>
+</dl>

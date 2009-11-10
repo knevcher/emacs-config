@@ -1,0 +1,24 @@
+#name : ZVHelper ... { ... }
+# --
+<?php
+
+ /*
+  *
+  *
+  *@author Knyazev Andrey
+  *
+  */
+
+class Zend_View_Helper_${1:Name} {
+
+    private \$_${var1};
+    private \$_${var2};
+
+
+    public function $1(\$${2:var2}){
+
+        $0
+        return \$${3:returnVar};
+    }
+
+  }        

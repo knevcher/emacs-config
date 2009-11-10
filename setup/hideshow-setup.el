@@ -1,0 +1,5 @@
+(load-library "hideshow")
+(add-hook 'php-mode-hook (lambda () (hs-minor-mode 1)))
+(add-hook 'html-mode-hook (lambda () (hs-minor-mode 1)))
+(add-hook 'js2-mode-hook (lambda () (hs-minor-mode 1)))
+(add-hook 'python-mode-hook (lambda () (hs-minor-mode 1)))

@@ -1,0 +1,23 @@
+#name : ZForm ... { ... }
+# --
+<?php
+
+  /*
+   *
+   *
+   *@author Knyazev Andrey
+   *
+   */
+
+
+class forms_${1:formName} extends Zend_Form {
+
+    public function __construct($options = null, $formValues = null) {
+
+        parent::__construct($options);
+
+        $0
+
+    }
+
+  }  

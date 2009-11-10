@@ -1,0 +1,39 @@
+\initial {C}
+\entry {\code {C-.}}{7}
+\entry {\code {C-[ TAB}}{7}
+\entry {\code {C-c C-c}}{8}
+\entry {\code {C-c C-f}}{9}
+\entry {\code {C-c C-l}}{2}
+\entry {\code {C-c C-m}}{9}
+\entry {\code {C-c C-q}}{4}
+\entry {\code {C-c C-w}}{3}
+\entry {\code {C-c RET}}{9}
+\entry {\code {C-j}}{4}
+\entry {\code {C-M-<END>}}{3}
+\entry {\code {C-M-<HOME>}}{3}
+\entry {\code {C-M-{\tt \backslashcurfont }}}{4, 5}
+\entry {\code {C-M-a}}{3}
+\entry {\code {C-M-b}}{3}
+\entry {\code {C-M-e}}{3}
+\entry {\code {C-M-f}}{3}
+\entry {\code {C-M-h}}{5}
+\entry {\code {C-q}}{2}
+\entry {\code {C-u}}{3}
+\entry {\code {C-w}}{5}
+\entry {\code {C-x ;}}{8}
+\entry {\code {C-x f}}{5}
+\initial {E}
+\entry {\code {ESC TAB}}{7}
+\initial {M}
+\entry {\code {M-- C-x ;}}{8}
+\entry {\code {M-;}}{8}
+\entry {\code {M-j}}{8}
+\entry {\code {M-m}}{3}
+\entry {\code {M-q}}{5}
+\entry {\code {M-TAB}}{7}
+\entry {\code {M-w}}{5}
+\entry {\code {M-x comment-box}}{8}
+\entry {\code {M-x comment-indent}}{8}
+\entry {\code {M-x php-mode}}{14}
+\initial {T}
+\entry {\code {TAB}}{2, 4}

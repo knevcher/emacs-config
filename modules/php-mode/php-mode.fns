@@ -1,0 +1,59 @@
+\initial {B}
+\entry {\code {back-to-indentation}}{3}
+\entry {\code {backward-sexp}}{3}
+\entry {\code {backward-word}}{3}
+\entry {\code {beginning-of-defun}}{3}
+\entry {\code {browse-url}}{9}
+\initial {C}
+\entry {\code {c-beginning-of-defun}}{3}
+\entry {\code {c-end-of-defun}}{3}
+\entry {\code {c-fill-paragraph}}{5}
+\entry {\code {c-indent-command}}{4}
+\entry {\code {c-indent-defun}}{4}
+\entry {\code {c-indent-new-comment-line}}{8}
+\entry {\code {c-mark-function}}{5}
+\entry {\code {c-subword-mode}}{3}
+\entry {\code {c-toggle-electric-state}}{2}
+\entry {\code {comment-box}}{8}
+\entry {\code {comment-dwim}}{8}
+\entry {\code {comment-indent}}{8}
+\entry {\code {comment-kill}}{8}
+\entry {\code {comment-region}}{8}
+\entry {\code {comment-set-column}}{8}
+\entry {\code {customize-group}}{9, 13}
+\entry {\code {customize-variable}}{6, 10}
+\initial {E}
+\entry {\code {end-of-defun}}{3}
+\initial {F}
+\entry {\code {fill-paragraph}}{5}
+\entry {\code {forward-sexp}}{3}
+\entry {\code {forward-word}}{3}
+\initial {H}
+\entry {\code {html-mode}}{14}
+\initial {I}
+\entry {\code {imenu}}{10}
+\entry {\code {imenu-add-menubar-index}}{10}
+\entry {\code {imenu-update-menubar}}{10}
+\entry {\code {indent-region}}{4, 5}
+\entry {\code {indent-rigidly}}{5}
+\initial {K}
+\entry {\code {kill-region}}{5}
+\entry {\code {kill-ring-save}}{5}
+\initial {N}
+\entry {\code {newline-and-indent}}{4}
+\initial {P}
+\entry {\code {php-browse-manual}}{9}
+\entry {\code {php-complete-function}}{7}
+\entry {\code {php-mode}}{14}
+\entry {\code {php-mode-version}}{1}
+\entry {\code {php-search-documentation}}{9}
+\entry {\code {php-show-arglist}}{7}
+\initial {Q}
+\entry {\code {quoted-insert}}{2}
+\initial {S}
+\entry {\code {self-insert-command}}{2}
+\entry {\code {set-fill-column}}{5}
+\initial {U}
+\entry {\code {universal-argument}}{3}
+\initial {V}
+\entry {\code {visit-tags-table}}{6}

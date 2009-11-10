@@ -1,0 +1,6 @@
+#name : ZElText
+# --
+
+\$${1:text} = new Zend_Form_Element_Text('$1',array('value'=>\$${2:val1}));
+\$$1->setLable('${3:Label}')
+    ->setRequired(${false});

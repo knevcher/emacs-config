@@ -1,0 +1,1 @@
+(setq auto-mode-alist (cons '("\\.phtml$" . html-mode) auto-mode-alist))

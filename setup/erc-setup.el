@@ -1,0 +1,1 @@
+(setq erc-server-coding-system '(utf-8 . utf-8))

@@ -1,0 +1,18 @@
+#name : ZModelDB ... { ... }
+# --
+<?php
+
+ /*
+  *
+  *
+  *@author Knyazev Andrey
+  *
+  */
+
+class ${1:modelName} extends Zend_Db_Table_Abstract
+{
+    protected \$_name = '$1';
+    protected \$_primary = '$1_id';
+
+    $0
+}    
