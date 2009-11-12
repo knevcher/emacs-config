@@ -8,4 +8,4 @@
 ;;(color-theme-blackboard) ;;--last
 ;;(color-theme-midnight)
 ;;(color-theme-railscasts)
-(color-theme-zenburn)
+;;(color-theme-zenburn)

@@ -1,6 +1,8 @@
 elpa
 tramp
+unique-setup.el
 auto-save-list
+*.elc
 *~
 .#*
 data.mysql
