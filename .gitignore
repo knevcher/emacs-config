@@ -2,6 +2,7 @@ elpa
 tramp
 unique-setup.el
 auto-save-list
+session*
 *.elc
 *~
 .#*
