@@ -1,6 +1,7 @@
 (add-to-list 'load-path "~/.emacs.d/modules/python/")
 
 (require 'python-mode)
+
 ;;(require 'pymacs)
 ;;(pymacs-load "ropemacs" "rope-")
 
