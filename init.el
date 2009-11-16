@@ -4,6 +4,7 @@
 (add-to-list 'load-path "~/.emacs.d/modules/")
 (add-to-list 'load-path "~/.emacs.d/modules/apel/")
 
+(load "~/.emacs.d/setup/maxframe-setup.el")
 (load "~/.emacs.d/setup/env.el")
 (load "~/.emacs.d/setup/faces-setup.el")
 (load "~/.emacs.d/setup/global-setup.el")
