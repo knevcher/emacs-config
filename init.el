@@ -31,7 +31,7 @@
 (load "~/.emacs.d/setup/user-func-setup.el")
 (load "~/.emacs.d/setup/dired-x-setup.el")
 (load "~/.emacs.d/setup/postgresql-setup.el")
-(load "~/.emacs.d/setup/magit-setup.el")
+(load "~/.emacs.d/setup/git-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
