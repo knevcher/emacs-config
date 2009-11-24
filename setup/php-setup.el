@@ -7,7 +7,9 @@
 (require 'php-electric)
 
 (add-hook 'php-mode-hook
-          '(lambda () (php-electric-mode 1)))
+          '(lambda () (php-electric-mode 1)
+             ))
+
 
 ;; debugging php
 (autoload 'geben "geben" "PHP Debugger on Emacs" t)
