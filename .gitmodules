@@ -1,0 +1,3 @@
+[submodule "modules/org"]
+	path = modules/org
+	url = git://repo.or.cz/org-mode.git

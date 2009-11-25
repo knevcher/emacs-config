@@ -1,8 +1,9 @@
 elpa
+*~
+.#*
+*elc
 tramp
 unique-setup.el
 auto-save-list
 session*
-*elc
-*~
-.#*
+.org-id-locations

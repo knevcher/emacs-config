@@ -1,5 +1,3 @@
-;;(add-to-list 'load-path "~/.emacs.d/modules/org/")
-
 (setq load-path (cons "~/.emacs.d/modules/org/lisp" load-path))
 (require 'org-install)
 
