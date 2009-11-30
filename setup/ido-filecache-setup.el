@@ -37,3 +37,6 @@ directory, select directory. Lastly the file is opened."
 	 (lambda ()
 	   (setq ido-temp-list choices))))
     (ido-read-buffer prompt)))
+
+;; using ido for org-mode completition
+(setq org-completion-use-ido t)

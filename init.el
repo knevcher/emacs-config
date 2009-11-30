@@ -32,6 +32,7 @@
 (load "~/.emacs.d/setup/dired-x-setup.el")
 (load "~/.emacs.d/setup/postgresql-setup.el")
 (load "~/.emacs.d/setup/git-setup.el")
+(load "~/.emacs.d/setup/uniquify-setup.el")
 (load "~/.emacs.d/setup/column-marker-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 (custom-set-variables
