@@ -9,7 +9,10 @@
 (add-hook 'php-mode-hook
           '(lambda () (php-electric-mode 1)
              ))
-
+(add-hook 'php-mode-hook  
+     (lambda ()
+       (c-set-offset 'arglist-intro '+)
+       (c-set-offset 'arglist-close 0)))
 
 ;; debugging php
 (autoload 'geben "geben" "PHP Debugger on Emacs" t)
