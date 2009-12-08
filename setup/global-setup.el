@@ -10,7 +10,6 @@
 ;; unused lines
 (setq indicate-empty-lines t)
 
-(fset 'yes-or-no-p 'y-or-n-p)
 (iswitchb-mode 1)
 
 ;; subword mode (Перемещение по частям слов lmbProjectController)

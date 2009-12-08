@@ -33,7 +33,8 @@
 (load "~/.emacs.d/setup/postgresql-setup.el")
 (load "~/.emacs.d/setup/git-setup.el")
 (load "~/.emacs.d/setup/uniquify-setup.el")
-(load "~/.emacs.d/setup/column-marker-setup.el")
+(load "~/.emacs.d/setup/alias-setup.el")
+;;(load "~/.emacs.d/setup/column-marker-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
