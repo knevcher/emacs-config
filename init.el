@@ -34,6 +34,7 @@
 (load "~/.emacs.d/setup/git-setup.el")
 (load "~/.emacs.d/setup/uniquify-setup.el")
 (load "~/.emacs.d/setup/alias-setup.el")
+(load "~/.emacs.d/setup/breadcrumb-setup.el")
 ;;(load "~/.emacs.d/setup/column-marker-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 (custom-set-variables
@@ -43,8 +44,7 @@
   ;; If there is more than one, they won't work right.
  '(column-number-mode t)
  '(default-input-method "russian-computer")
- '(display-time-mode t)
- )
+ '(display-time-mode t))
 
 ;;; This was installed by package-install.el.
 ;;; This provides support for the package system and
@@ -58,3 +58,5 @@
   (package-initialize))
 
 (message "My init.el loaded in %ds. \n Ok." (destructuring-bind (hi lo ms) (current-time) (- (+ hi lo) (+ (first *emacs-load-start*) (second *emacs-load-start*)))))
+
+
