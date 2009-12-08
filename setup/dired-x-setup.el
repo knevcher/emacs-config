@@ -10,5 +10,5 @@
           (lambda ()
             ;; Set dired-x buffer-local variables here.  For example:
             ;; (dired-omit-mode 1)
-            (dired-dwim-target 1)
+            (setq dired-dwim-target 1)
             ))
