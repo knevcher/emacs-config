@@ -1,3 +1,6 @@
 [submodule "modules/org"]
 	path = modules/org
 	url = git://repo.or.cz/org-mode.git
+[submodule "modules/tiny-tools"]
+	path = modules/tiny-tools
+	url = git://git.savannah.nongnu.org/emacs-tiny-tools.git
