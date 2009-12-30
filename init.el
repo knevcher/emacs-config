@@ -18,6 +18,7 @@
 (load "~/.emacs.d/setup/scheme-setup.el")
 (load "~/.emacs.d/setup/linum-setup.el")
 (load "~/.emacs.d/setup/python-setup.el")
+(load "~/.emacs.d/setup/autocomplete-setup.el")
 (load "~/.emacs.d/setup/haskell-setup.el")
 (load "~/.emacs.d/setup/color-theme-setup.el")
 ;;(load "~/.emacs.d/setup/emms-setup.el")
@@ -35,7 +36,7 @@
 (load "~/.emacs.d/setup/uniquify-setup.el")
 (load "~/.emacs.d/setup/alias-setup.el")
 (load "~/.emacs.d/setup/breadcrumb-setup.el")
-;;(load "~/.emacs.d/setup/column-marker-setup.el")
+(load "~/.emacs.d/setup/column-marker-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
