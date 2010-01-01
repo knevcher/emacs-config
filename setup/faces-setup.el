@@ -21,4 +21,5 @@
  '(diff-refine-change ((((class color) (min-colors 88) (background dark)) (:background "#182042"))))
  '(diff-removed ((t (:foreground "#de1923"))))
  '(linum ((t (:inherit (shadow default) :foreground "DarkGoldenrod1"))))
+ '(trailing-whitespace ((t (:inherit font-lock-warning-face :background "red"))))
  )

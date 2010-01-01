@@ -18,8 +18,6 @@
 ;; показывать соответствующие скобки
 (show-paren-mode t)
 
-(setq indicate-empty-lines nil)
-
 (setq-default indent-tabs-mode nil)
 
 (global-hl-line-mode 1)
