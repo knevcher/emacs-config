@@ -1,6 +1,6 @@
 (require 'breadcrumb)
 
-(global-set-key [(control .)]         'bc-set)            ;; Shift-SPACE for set bookmark
+(global-set-key [(shift f1)]         'bc-set)            ;; Shift-SPACE for set bookmark
 (global-set-key [(meta j)]              'bc-previous)       ;; M-j for jump to previous
 (global-set-key [(shift meta j)]        'bc-next)           ;; Shift-M-j for jump to next
 (global-set-key [(meta up)]             'bc-local-previous) ;; M-up-arrow for local previous
