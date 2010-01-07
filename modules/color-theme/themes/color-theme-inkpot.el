@@ -29,5 +29,6 @@
      (font-lock-reference-face ((t (:bold t :foreground "#808bed"))))
      (font-lock-string-face ((t (:foreground "#ffcd8b" :background "#404040"))))
      (font-lock-type-face ((t (:foreground "#ff8bff"))))
-     (font-lock-variable-name-face ((t nil)))
+;;     (font-lock-variable-name-face ((t nil)))
+     (font-lock-variable-name-face ((t (:foreground "#c080d0"))))
      (font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff0000")))))))
