@@ -7,3 +7,6 @@
 [submodule "modules/auto-complete"]
 	path = modules/auto-complete
 	url = git://github.com/m2ym/auto-complete.git
+[submodule "modules/jabber"]
+	path = modules/jabber
+	url = git://emacs-jabber.git.sourceforge.net/gitroot/emacs-jabber/emacs-jabber

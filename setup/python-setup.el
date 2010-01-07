@@ -12,4 +12,4 @@
 (save-excursion ad-do-it))
 
 (load-library "pylint")
-(load-library "pylint-flymake")
+;;(load-library "pylint-flymake")
