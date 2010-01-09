@@ -38,6 +38,8 @@
 (load "~/.emacs.d/setup/breadcrumb-setup.el")
 (load "~/.emacs.d/setup/column-marker-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
+;;(load "~/.emacs.d/setup/icicles-setup.el")
+
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
