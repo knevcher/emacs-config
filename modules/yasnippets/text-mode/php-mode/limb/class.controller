@@ -1,0 +1,9 @@
+#name : Limb Controller ... 
+# --
+class ${controller_name}Controller extends lmbController
+{
+  function doDisplay()
+  {
+    $0
+  }
+}

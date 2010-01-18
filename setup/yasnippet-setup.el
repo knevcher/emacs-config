@@ -7,3 +7,8 @@
 ;;(yas/load-directory "~/.emacs.d/modules/yasnippet")
 ;; I don't like using partial words for completion
 (setq yas/key-syntaxes '("w_" "w_." "^ "))
+(setq yas/root-directory "~/.emacs.d/modules/yasnippets")
+(yas/load-directory yas/root-directory)
+(setq yas/prompt-functions '(yas/ido-prompt))
+;;(setq yas/prompt-functions '(yas/dropdown-prompt))
+

@@ -1,0 +1,17 @@
+#name : Limb Model ... 
+# --
+class ${model_name} extends lmbActiveRecord
+{
+  protected function _defineRelations()
+  {
+    $this->_many_belongs_to['${relation_name_1}'] = array(
+      'field' => '${field_1}',
+      'class' => '${class_1}',
+    );
+
+    $this->_has_many['${relation_name_2}'] = array(
+      'field' => '${field_1}',
+      'class' => '${class_2}',
+    );
+  }
+}

@@ -23,3 +23,4 @@
 (global-hl-line-mode 1)
 ;;(set-face-background 'hl-line "#00556A")
 (set-face-background 'hl-line "#292b38")
+(setq require-final-newline t)
