@@ -24,3 +24,8 @@
 ;;(set-face-background 'hl-line "#00556A")
 (set-face-background 'hl-line "#292b38")
 (setq require-final-newline t)
+
+;;delete trailing whitespaces before saving
+(add-hook 'before-save-hook 'delete-trailing-whitespace)
+
+(setq require-final-newline t)
