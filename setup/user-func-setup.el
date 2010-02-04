@@ -9,3 +9,11 @@
       (concat user-temporary-file-directory ".auto-saves-"))
 (setq auto-save-file-name-transforms
       `((".*" ,user-temporary-file-directory t)))
+
+(defun fullscreen (&optional f)
+  (interactive)
+  (set-frame-parameter f 'fullscreen
+                       (if (frame-parameter f 'fullscreen) nil 'fullboth)))
+
+(global-set-key [f11] 'fullscreen)
+(add-hook 'after-make-frame-functions 'fullscreen)
