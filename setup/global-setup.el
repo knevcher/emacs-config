@@ -29,3 +29,5 @@
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
 
 (setq require-final-newline t)
+
+(setq split-width-threshold nil)
