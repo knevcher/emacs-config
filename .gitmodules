@@ -16,3 +16,6 @@
 [submodule "modules/color-theme/themes/twilight"]
 	path = modules/color-theme/themes/twilight
 	url = git://github.com/crafterm/twilight-emacs.git
+[submodule "modules/gitsum"]
+	path = modules/gitsum
+	url = git://github.com/chneukirchen/gitsum.git
