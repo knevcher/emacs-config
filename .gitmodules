@@ -19,3 +19,6 @@
 [submodule "modules/gitsum"]
 	path = modules/gitsum
 	url = git://github.com/chneukirchen/gitsum.git
+[submodule "modules/emms"]
+	path = modules/emms
+	url = git://git.savannah.gnu.org/emms.git
