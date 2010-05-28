@@ -6,6 +6,7 @@
                                         ;(setq yas/after-exit-snippet-hook 'indent-according-to-mode)
             ))
 ;; pymacs
+;;(require 'pymacs)
 (autoload 'pymacs-apply "pymacs")
 (autoload 'pymacs-call "pymacs")
 (autoload 'pymacs-eval "pymacs" nil t)

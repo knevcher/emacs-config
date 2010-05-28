@@ -1,4 +1,6 @@
 (add-to-list 'load-path "~/.emacs.d/modules/python/")
+(add-to-list 'load-path "~/.emacs.d/modules/pymacs")
+
 (autoload 'python-mode "python-mode" "Python Mode." t)
 (require 'python-mode)
 (add-to-list 'auto-mode-alist '("\\.py\\'" . python-mode))

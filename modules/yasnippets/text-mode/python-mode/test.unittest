@@ -1,0 +1,26 @@
+#name : UnitTest Class ...
+# --
+# -*- coding: utf-8 -*-
+import unittest
+
+import settings
+from net.test_requests import AcceptanceTestRequest
+
+class Test${test_class_name}(unittest.TestCase):
+
+    def setUp(self) :
+
+        self.request = AcceptanceTestRequest(settings.SERVER)
+
+    def tearDown(self) :
+
+        self.request.close()
+
+
+    def test_${method_name}(self):
+
+        $0
+
+if __name__ == '__main__':
+    unittest.main()
+

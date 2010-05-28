@@ -22,3 +22,6 @@
 [submodule "modules/emms"]
 	path = modules/emms
 	url = git://git.savannah.gnu.org/emms.git
+[submodule "modules/pymacs"]
+	path = modules/pymacs
+	url = git://github.com/pinard/Pymacs.git
