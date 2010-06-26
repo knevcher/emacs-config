@@ -31,3 +31,6 @@
 (setq require-final-newline t)
 
 (setq split-width-threshold nil)
+
+;; режим перехода по строкам, так как они открыты в буфере без переносов
+(setq line-move-visual 1)
