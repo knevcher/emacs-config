@@ -12,3 +12,6 @@
                   (delete-horizontal-space t)
                   (newline)
                   (indent-relative-maybe)))))
+
+(add-to-list 'auto-mode-alist '("\\.mysql$" . sql-mode))
+(add-to-list 'auto-mode-alist '("\\.pgsql$" . sql-mode))
