@@ -4,6 +4,7 @@
 (add-to-list 'load-path "~/.emacs.d/modules/")
 (add-to-list 'load-path "~/.emacs.d/modules/apel/")
 
+;;(load "~/.emacs.d/setup/byte-code-setup.el")
 (load "~/.emacs.d/setup/maxframe-setup.el")
 (load "~/.emacs.d/setup/env.el")
 (load "~/.emacs.d/setup/faces-setup.el")
@@ -42,6 +43,7 @@
 (load "~/.emacs.d/setup/python-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 ;;(load "~/.emacs.d/setup/icicles-setup.el")
+;;(load "~/.emacs.d/setup/xslt-setup.el")
 
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
