@@ -43,7 +43,7 @@
 (load "~/.emacs.d/setup/python-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 ;;(load "~/.emacs.d/setup/icicles-setup.el")
-;;(load "~/.emacs.d/setup/xslt-setup.el")
+(load "~/.emacs.d/setup/jd-repo-setup.el")
 
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
