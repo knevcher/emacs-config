@@ -25,3 +25,12 @@
 ;;       '(("Todo" ?t "* TODO %?\n  %i\n  %a %T" "~/docs/org/TODO.org" "Tasks")
 ;;         ("Journal" ?j "* %U %?\n\n  %i\n %T " "~/docs/org/life.org")
 ;;         ("Idea" ?i "* %^{Title}\n  %i\n %T " "~/docs/org/life.org" "New Ideas")))
+
+
+;;org-mobile-setup
+;; Set to the location of your Org files on your local system
+(setq org-directory "/media/truecrypt1/docs")
+;; Set to the name of the file where new notes will be stored
+(setq org-mobile-inbox-for-pull "/media/truecrypt1/docs/notes.org")
+;; Set to <your Dropbox root directory>/MobileOrg.
+(setq org-mobile-directory "~/Dropbox/MobileOrg")
