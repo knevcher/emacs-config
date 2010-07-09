@@ -34,6 +34,7 @@
 ;;(load "~/.emacs.d/setup/shell-setup.el")
 (load "~/.emacs.d/setup/user-func-setup.el")
 (load "~/.emacs.d/setup/dired-x-setup.el")
+(load "~/.emacs.d/setup/smerge-setup.el")
 (load "~/.emacs.d/setup/postgresql-setup.el")
 (load "~/.emacs.d/setup/git-setup.el")
 (load "~/.emacs.d/setup/uniquify-setup.el")
