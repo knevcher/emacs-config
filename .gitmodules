@@ -28,3 +28,6 @@
 [submodule "modules/jd-repo"]
 	path = modules/jd-repo
 	url = git://git.naquadah.org/~jd/jd-el.git
+[submodule "modules/magit"]
+	path = modules/magit
+	url = http://github.com/philjackson/magit.git
