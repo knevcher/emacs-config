@@ -28,3 +28,6 @@
 [submodule "modules/magit"]
 	path = modules/magit
 	url = http://github.com/philjackson/magit.git
+[submodule "modules/anything"]
+	path = modules/anything
+	url = git://repo.or.cz/anything-config.git
