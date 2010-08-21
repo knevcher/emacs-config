@@ -10,9 +10,6 @@
 [submodule "modules/jabber"]
 	path = modules/jabber
 	url = git://emacs-jabber.git.sourceforge.net/gitroot/emacs-jabber/emacs-jabber
-[submodule "modules/anything-config"]
-	path = modules/anything-config
-	url = git://repo.or.cz/anything-config.git
 [submodule "modules/color-theme/themes/twilight"]
 	path = modules/color-theme/themes/twilight
 	url = git://github.com/crafterm/twilight-emacs.git
