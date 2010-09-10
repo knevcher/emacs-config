@@ -9,4 +9,6 @@
           '(lambda() (linum-mode 1)))
 (add-hook 'js2-mode-hook
           '(lambda() (linum-mode 1)))
+(add-hook 'shell-script-mode-hook
+          '(lambda() (linum-mode 1)))
 
