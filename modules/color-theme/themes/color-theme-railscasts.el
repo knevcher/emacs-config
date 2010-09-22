@@ -1,3 +1,16 @@
+;; Railscasts color theme for Emacs.
+;;
+;; To use add the following to your .emacs file:
+;;
+;; (require 'color-theme)
+;; (color-theme-initialize)
+;; (load-file "~/.emacs.d/site-lisp/themes/color-theme-railscasts.el")
+;; (color-theme-railscasts)
+;;
+;; MIT License Copyright (c) 2009 Oleg Shaldybin <oleg.shaldybin@gmail.com>
+;; Inspired by the brilliant Railscasts theme for TextMate
+;;
+
 (defun color-theme-railscasts ()
   (interactive)
   (color-theme-install
@@ -42,4 +55,8 @@
      (flymake-warnline ((t (:background "LightSteelBlue" :foreground
                                         "black"))))
      (underline ((t (:underline t))))
-     (minibuffer-prompt ((t (:bold t :foreground "#FF6600")))))))
+     (minibuffer-prompt ((t (:bold t :foreground "#FF6600"))))
+     ;; two org-mode faces
+     (org-document-info-keyword ((t (:foreground "#BC9458" :bold t))))
+     (org-document-title ((t (:foreground "#BC9458" :bold t))))
+     )))
