@@ -4,3 +4,8 @@
 
 (setq js2-basic-offset 2)
 (setq js2-mode-toggle-warnings-and-errors t)
+
+(add-hook 'js2-mode
+          '(lambda ()
+             (highlight-symbol-mode 1)
+             ))

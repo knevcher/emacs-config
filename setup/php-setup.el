@@ -8,8 +8,9 @@
 
 (add-hook 'php-mode-hook
           '(lambda () (php-electric-mode 1)
+             (highlight-symbol-mode 1)
              ))
-(add-hook 'php-mode-hook  
+(add-hook 'php-mode-hook
      (lambda ()
        (c-set-offset 'arglist-intro '+)
        (c-set-offset 'arglist-close 0)))

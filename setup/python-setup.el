@@ -13,5 +13,11 @@
 "return focus to python code buffer"
 (save-excursion ad-do-it))
 
+(add-hook 'python-mode
+          '(lambda ()
+             (highlight-symbol-mode 1)
+             ))
+
 (load-library "pylint")
 ;;(load-library "pylint-flymake")
+

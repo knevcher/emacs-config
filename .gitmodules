@@ -31,3 +31,6 @@
 [submodule "modules/anything"]
 	path = modules/anything
 	url = git://repo.or.cz/anything-config.git
+[submodule "modules/lusty"]
+	path = modules/lusty
+	url = http://github.com/sjbach/lusty-emacs.git
