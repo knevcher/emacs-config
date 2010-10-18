@@ -47,6 +47,7 @@
 (load "~/.emacs.d/setup/narrow-setup.el")
 ;;(load "~/.emacs.d/setup/icicles-setup.el")
 (load "~/.emacs.d/setup/jd-repo-setup.el")
+(load "~/.emacs.d/setup/sml-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 
 (custom-set-variables
