@@ -1,0 +1,25 @@
+;;;							-*- emacs-lisp -*-
+;;; Configuration file for installation.
+
+;; load-path setting example for Mule with SEMI.
+(setq load-path (append
+		 (list "/home/knevcher/.emacs.d/modules/apel"
+		       "/home/knevcher/.emacs.d/modules/flim"
+		       "/home/knevcher/.emacs.d/modules/semi")
+		 load-path))
+
+;; If you want to install utils, uncomment following line.
+(setq wl-install-utils t)
+
+;; Set language for info file ("ja" or "en", both in default).
+;; If you only need manual in English, uncomment following line.
+(setq wl-info-lang "en")
+
+;; Set language for news file ("ja" or "en", both in default).
+(setq wl-news-lang '("en")) ; order sensitive
+
+;; if you want to install wl modules to the subdirectory other than "wl"
+;; under LISPDIR, set following variables.
+(setq WL_PREFIX "wl")    ; default is "wl"
+(setq ELMO_PREFIX "wl")  ; default is "wl"
+
