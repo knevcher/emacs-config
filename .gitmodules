@@ -34,3 +34,6 @@
 [submodule "modules/lusty"]
 	path = modules/lusty
 	url = http://github.com/sjbach/lusty-emacs.git
+[submodule "modules/coffee-mode"]
+	path = modules/coffee-mode
+	url = https://github.com/defunkt/coffee-mode.git

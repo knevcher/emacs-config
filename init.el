@@ -15,6 +15,7 @@
 (load "~/.emacs.d/setup/elscreen-setup.el")
 ;;(load "~/.emacs.d/setup/jabber-setup.el")
 (load "~/.emacs.d/setup/js2-setup.el")
+(load "~/.emacs.d/setup/coffee-setup.el")
 (load "~/.emacs.d/setup/php-setup.el")
 (load "~/.emacs.d/setup/ido-filecache-setup.el")
 ;;(load "~/.emacs.d/setup/lusty-setup.el")
