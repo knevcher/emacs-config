@@ -22,3 +22,6 @@
 ;;(load-library "pylint")
 ;;(load-library "pylint-flymake")
 
+(require 'python-pylint)
+(require 'python-pep8)
+
