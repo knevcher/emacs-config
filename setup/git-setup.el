@@ -1,5 +1,4 @@
 (add-to-list 'load-path "~/.emacs.d/modules/magit/")
-;;(add-to-list 'load-path "~/.emacs.d/modules/egg/")
 (add-to-list 'load-path "~/.emacs.d/modules/gitsum/")
 
 (require 'magit)
