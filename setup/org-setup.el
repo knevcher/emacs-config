@@ -29,8 +29,8 @@
 
 ;;org-mobile-setup
 ;; Set to the location of your Org files on your local system
-(setq org-directory "/media/truecrypt1/docs")
+(setq org-directory "~/Dropbox/docs/org/")
 ;; Set to the name of the file where new notes will be stored
-(setq org-mobile-inbox-for-pull "/media/truecrypt1/docs/notes.org")
+(setq org-mobile-inbox-for-pull "~/Dropbox/docs/org/notes.org")
 ;; Set to <your Dropbox root directory>/MobileOrg.
 (setq org-mobile-directory "~/Dropbox/MobileOrg")

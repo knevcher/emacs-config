@@ -28,7 +28,11 @@
 ;;delete trailing whitespaces before saving
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
 
+;; обязательная завершающая строка в конце файла
 (setq require-final-newline t)
+
+;; Flash instead of that annoying bell
+(setq visible-bell t)
 
 (setq split-width-threshold nil)
 
