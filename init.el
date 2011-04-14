@@ -16,7 +16,8 @@
 ;;(load "~/.emacs.d/setup/jabber-setup.el")
 (load "~/.emacs.d/setup/js2-setup.el")
 (load "~/.emacs.d/setup/coffee-setup.el")
-(load "~/.emacs.d/setup/php-setup.el")
+;;(load "~/.emacs.d/setup/php-setup.el")
+(load "~/.emacs.d/setup/nxhtml-php-setup.el")
 (load "~/.emacs.d/setup/ido-filecache-setup.el")
 ;;(load "~/.emacs.d/setup/lusty-setup.el")
 (load "~/.emacs.d/setup/ibuffer-setup.el")
@@ -49,7 +50,7 @@
 ;;(load "~/.emacs.d/setup/icicles-setup.el")
 (load "~/.emacs.d/setup/jd-repo-setup.el")
 (load "~/.emacs.d/setup/sml-setup.el")
-(load "~/.emacs.d/setup/wanderlast-setup.el")
+;;(load "~/.emacs.d/setup/wanderlast-setup.el")
 (load "~/.emacs.d/setup/unique-setup.el")
 
 (custom-set-variables
@@ -89,4 +90,6 @@
  '(diff-refine-change ((((class color) (min-colors 88) (background dark)) (:background "#182042"))))
  '(diff-removed ((t (:foreground "#de1923"))))
  '(linum ((t (:inherit (shadow default) :foreground "#8b8bcd"))))
+ '(mumamo-background-chunk-major ((((class color) (min-colors 88) (background dark)) (:background "dark blue"))))
+ '(mumamo-background-chunk-submode1 ((((class color) (min-colors 88) (background dark)) (:background "black"))))
  '(trailing-whitespace ((t (:inherit font-lock-warning-face :background "red")))))
