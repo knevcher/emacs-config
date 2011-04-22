@@ -38,3 +38,6 @@
 	path = modules/coffee-mode
 	url = https://github.com/defunkt/coffee-mode.git
 
+[submodule "modules/color-theme/themes/solarized"]
+	path = modules/color-theme/themes/solarized
+	url = git://github.com/sellout/emacs-color-theme-solarized.git

@@ -90,6 +90,6 @@
  '(diff-refine-change ((((class color) (min-colors 88) (background dark)) (:background "#182042"))))
  '(diff-removed ((t (:foreground "#de1923"))))
  '(linum ((t (:inherit (shadow default) :foreground "#8b8bcd"))))
- '(mumamo-background-chunk-major ((((class color) (min-colors 88) (background dark)) (:background "dark blue"))))
- '(mumamo-background-chunk-submode1 ((((class color) (min-colors 88) (background dark)) (:background "black"))))
+ '(mumamo-background-chunk-major ((((class color) (min-colors 88) (background dark)) (:background "black"))))
+ '(mumamo-background-chunk-submode1 ((((class color) (min-colors 88) (background dark)) (:background "#002b36"))))
  '(trailing-whitespace ((t (:inherit font-lock-warning-face :background "red")))))

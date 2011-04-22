@@ -6,10 +6,10 @@
 (require 'php-mode)
 
 (setq c-basic-offset 2)
-;;(require 'php-electric)
+(require 'php-electric)
 
 (add-hook 'php-mode-hook
-          '(lambda () ;;(php-electric-mode 1)
+          '(lambda () (php-electric-mode 1)
              (highlight-symbol-mode 1)
              ))
 (add-hook 'php-mode-hook
