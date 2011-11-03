@@ -23,3 +23,4 @@
  '(linum ((t (:inherit (shadow default) :foreground "#8b8bcd"))))
  '(trailing-whitespace ((t (:inherit font-lock-warning-face :background "red"))))
  )
+
