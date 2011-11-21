@@ -49,6 +49,7 @@
 (load "~/.emacs.d/setup/python-setup.el")
 (load "~/.emacs.d/setup/ruby-mode-setup.el")
 (load "~/.emacs.d/setup/narrow-setup.el")
+(load "~/.emacs.d/setup/which-function-mode-setup.el")
 ;;(load "~/.emacs.d/setup/icicles-setup.el")
 (load "~/.emacs.d/setup/jd-repo-setup.el")
 (load "~/.emacs.d/setup/sml-setup.el")

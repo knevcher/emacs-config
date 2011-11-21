@@ -1,0 +1,5 @@
+(require 'which-func)
+(add-to-list 'which-func-modes 'php-mode)
+(add-to-list 'which-func-modes 'python-mode)
+(add-to-list 'which-func-modes 'ruby-mode)
+(which-func-mode 1)
