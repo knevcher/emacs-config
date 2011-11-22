@@ -37,6 +37,7 @@
 (load "~/.emacs.d/setup/html-setup.el")
 (load "~/.emacs.d/setup/psvn-setup.el")
 (load "~/.emacs.d/setup/shell-setup.el")
+(load "~/.emacs.d/setup/ace-mode-setup.el")
 (load "~/.emacs.d/setup/user-func-setup.el")
 (load "~/.emacs.d/setup/dired-x-setup.el")
 (load "~/.emacs.d/setup/smerge-setup.el")
