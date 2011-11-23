@@ -1,3 +1,0 @@
-;; -*- mode: emacs-lisp -*-
-;; History entries used for anything adaptive display.
-(setq anything-c-adaptive-history (quote (("Complex Command History" ("(copy-to-register 102 (region-beginning) (region-end) nil)" ("" . 1))) (file ("templates" ("" . 1)) ("www" ("www" . 1))))))

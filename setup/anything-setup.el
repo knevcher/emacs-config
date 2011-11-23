@@ -1,11 +1,12 @@
 (add-to-list 'load-path "~/.emacs.d/modules/anything/")
-
 (require 'anything-config)
 
 (defun my-anything ()
   (interactive)
   (anything-other-buffer
    '(anything-c-source-buffers
+     anything-c-source-recentf
+     anything-c-source-files-in-current-dir+
      anything-c-source-file-name-history
      anything-c-source-locate
      anything-c-source-emacs-commands)
@@ -22,4 +23,3 @@
       '(anything-c-source-info-pages
         anything-c-source-man-pages             ;; man pages
         anything-c-source-info-emacs))))        ;; emacs
-

@@ -38,3 +38,6 @@
 [submodule "modules/color-theme/themes/solarized"]
 	path = modules/color-theme/themes/solarized
 	url = git://github.com/sellout/emacs-color-theme-solarized.git
+[submodule "modules/ace-jump-mode"]
+	path = modules/ace-jump-mode
+	url = https://github.com/winterTTr/ace-jump-mode.git
