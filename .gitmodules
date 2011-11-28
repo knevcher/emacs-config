@@ -41,3 +41,6 @@
 [submodule "modules/ace-jump-mode"]
 	path = modules/ace-jump-mode
 	url = https://github.com/winterTTr/ace-jump-mode.git
+[submodule "modules/slime"]
+	path = modules/slime
+	url = https://github.com/nablaone/slime
