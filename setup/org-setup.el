@@ -16,10 +16,10 @@
 
 ;; (add-hook 'org-after-todo-statistics-hook 'org-summary-todo)
 
-;; (org-remember-insinuate)
-;;      (setq org-directory "~/docs/org/")
-;;      (setq org-default-notes-file (concat org-directory "/notes.org"))
-;;      (define-key global-map "\C-cr" 'org-remember)
+(org-remember-insinuate)
+(setq org-directory "~/docs/org/")
+;;(setq org-default-notes-file ("~/Dropbox/docs/org/notes.org"))
+(define-key global-map "\C-cr" 'org-remember)
 
 ;; (setq org-remember-templates
 ;;       '(("Todo" ?t "* TODO %?\n  %i\n  %a %T" "~/docs/org/TODO.org" "Tasks")
@@ -34,3 +34,8 @@
 (setq org-mobile-inbox-for-pull "~/Dropbox/docs/org/notes.org")
 ;; Set to <your Dropbox root directory>/MobileOrg.
 (setq org-mobile-directory "~/Dropbox/MobileOrg")
+
+(setq org-ctrl-k-protect-subtree t)
+(setq org-enforce-todo-dependencies t)
+(setq org-enforce-todo-checkbox-dependencies t)
+
